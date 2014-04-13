@@ -1,0 +1,30 @@
+body { 
+font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+font-size: 75%;
+background-color: #f4f4f5;
+}
+
+input#url_input { 
+background-color: #f4f4f5;
+border-bottom-color: rgb(230, 230, 230);
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-style: solid;
+border-bottom-width: 5px;
+border-left-color: rgb(230, 230, 230);
+border-left-style: solid;
+border-left-width: 5px;
+border-right-color: rgb(230, 230, 230);
+border-right-style: solid;
+border-right-width: 5px;
+border-top-color: rgb(230, 230, 230);
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-top-style: solid;
+border-top-width: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+width: 200px;
+}
